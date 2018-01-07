@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Sample files
+samples/
+
+.vscode/
+config.json
